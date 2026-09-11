@@ -11,7 +11,7 @@ print(f"현재 실행 중인 Python 버전: {sys.version.split()[0]}")
 print("=" * 40)
 
 # 3. 간단한 계산 로직
-daily_tasks = 5
+daily_tasks = 6
 completed_tasks = 3
 progress = (completed_tasks / daily_tasks) * 100
 print(f"오늘 처리한 업무 진척도: {progress:.1f}%")
